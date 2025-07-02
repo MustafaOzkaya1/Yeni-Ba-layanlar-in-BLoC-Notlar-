@@ -1,1 +1,2 @@
-# Yeni-Ba-layanlar-in-BLoC-Notlar-
+# Yeni-Baslayanlar-icin-BLoC-Notlari
+
